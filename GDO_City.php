@@ -27,7 +27,6 @@ class GDO_City extends GDO
 
 	public static function byGeo(float $lat, float $lng): self
 	{
-Module_CountryCoordinates::
 	}
 
 }
